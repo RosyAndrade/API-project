@@ -1,0 +1,37 @@
+{
+    "nome"  : "Luís Felipe",
+	"login" : "lffsant",
+    "senha" : "12345",
+    "atividades" : [
+		{
+			"index": "1", 
+			"atividade": "Atividade 1", 
+			"date": "05/04/2022 - 08:30:00",
+			"status": "done"
+		},
+		{
+			"index": "2", 
+			"atividade": "Atividade 2", 
+			"date": "05/04/2022 - 09:30:00",
+			"status": "open"
+		},
+		{
+			"index": "3", 
+			"atividade": "Atividade 3", 
+			"date": "05/04/2022 - 10:30:00",
+			"status": "open"
+		},
+		{
+			"index": "4", 
+			"atividade": "Atividade 4", 
+			"date": "05/04/2022 - 10:30:00",
+			"status": "done"
+		},
+		{
+			"index": "5", 
+			"atividade": "Atividade 5", 
+			"date": "05/04/2022 - 10:30:00",
+			"status": "open"
+		}
+	]
+}
